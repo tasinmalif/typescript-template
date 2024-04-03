@@ -1,0 +1,25 @@
+{
+  "name": "CHANGE",
+  "version": "0.0.1",
+  "description": "CHANGE",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "npm run build && node .",
+    "build": "tsc -b tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasinmalif/CHANGE.git"
+  },
+  "author": "Tasin M Alif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasinmalif/CHANGE/issues"
+  },
+  "homepage": "https://github.com/tasinmalif/CHANGE#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "typescript": "^4.8.3"
+  }
+}
