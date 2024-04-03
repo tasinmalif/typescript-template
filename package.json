@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tasinmalif/CHANGE#readme",
   "devDependencies": {
-    "@types/node": "^18.7.18",
-    "typescript": "^4.8.3"
+    "@types/node": "^20.12.3",
+    "typescript": "^5.4.3"
   }
 }
